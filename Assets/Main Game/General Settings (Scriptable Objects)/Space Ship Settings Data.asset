@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1dd43de7b8b69144810b27acac233b3, type: 3}
+  m_Name: Space Ship Settings Data
+  m_EditorClassIdentifier: 
+  _SpeedForward: 5
+  _Speed2d: 30
+  _Max2DSpeed: 70
+  _Max3DSpeed: 50
+  _ShipZAxisRotationClamp: 40
+  _ShipXAxisRotationClamp: 80
+  _YAngularSpeed: 40
+  ShipAngularSpeed: 3
+  ShipRotationMultiplier: 0.4
+  _TargetClamp: 100
+  _TargetIconLerper: 2
+  _TargetDeadZone: 0.1
+  MouseSpeedMultiplier: 3
